@@ -1,2 +1,2 @@
 # perfume-project
-perfume project assigned by erudite web develpment training
+perfume project assigned by erudite web development training
