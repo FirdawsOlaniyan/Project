@@ -1,0 +1,42 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+hr{
+   width: 600px;
+ ;
+}
+.me{
+    background-color: black;
+    width: 50%;
+}
+.first{
+    text-align: center;
+}
+.oi{
+    display: flex;
+}
+.lo{
+    padding-left: 20px;
+}
+.pu{
+    width: 640px;
+    background-color: black;
+}
+.py{
+    margin-top: 500px;
+}
+.lu{
+   width: 200px;
+   margin-left:40px;
+}
+.bi{
+    background-color: black;
+    width: 640px;
+    text-emphasis-style: dotted;
+    text-emphasis-color: white;
+}
+.you{
+    background-color: black;
+    width: 640px;
+}
